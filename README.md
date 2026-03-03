@@ -1,4 +1,6 @@
-## Master AI Agentic Engineering -  build autonomous AI Agents
+## AI Agents - Divesh's Fork
+
+> Fork of [ed-donner/agents](https://github.com/ed-donner/agents) — Master AI Agentic Engineering course.
 
 ### 6 week journey to code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP
 
@@ -6,7 +8,7 @@
 
 _If you're looking at this in Cursor, please right click on the filename in the Explorer on the left, and select "Open preview", to view the formatted version._
 
-I couldn't be more excited to welcome you! This is the start of your 6 week adventure into the powerful, astonishing and often surreal world of Agentic AI.
+This is my personal fork of the course repository where I'm working through the 6-week agentic AI curriculum.
 
 ### Before you begin
 
